@@ -1,1 +1,1 @@
-# bedrock-handson
+# RAG-bedrock-handson
